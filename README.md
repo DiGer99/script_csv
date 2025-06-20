@@ -1,3 +1,5 @@
+Версия Python от 3.10
+
 Установка зависимостей <code>pip install -r req.txt</code>\
 Запуск производится в директории с файлом main.py командой <code>python3 main.py --file products.csv</code>\
 Далее набираются необходимые команды\
